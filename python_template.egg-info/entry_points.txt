@@ -1,3 +1,0 @@
-[console_scripts]
-python_template = python_template.cli:main
-

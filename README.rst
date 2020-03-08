@@ -7,7 +7,7 @@ python_template
         :target: https://pypi.python.org/pypi/python_template
 
 .. image:: https://img.shields.io/travis/pulsatill/python_template.svg
-        :target: https://travis-ci.com/pulsatill/python_template
+        :target: https://travis-ci.com/pulstatill/python_template.svg?branch=master
 
 .. image:: https://readthedocs.org/projects/python-template/badge/?version=latest
         :target: https://python-template.readthedocs.io/en/latest/?badge=latest

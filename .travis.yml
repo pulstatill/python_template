@@ -4,6 +4,6 @@ python:
 install:
     - pip install -e . # install package + test dependencies
     - pip install codecov
-script: pytest
+script: pytest --cov=codecov
 after_success:
     - codecov

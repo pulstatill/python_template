@@ -11,3 +11,4 @@ recursive-exclude * *.py[co]
 recursive-include docs *.rst conf.py Makefile make.bat *.jpg *.png *.gif
 include versioneer.py
 include src/python_template/_version.py
+include python_template/_version.py

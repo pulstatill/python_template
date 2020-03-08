@@ -1,6 +1,8 @@
-nguage: python
+language: python
 python:
     - 3.7
 install:
     - pip install -e . # install package + test dependencies
 script: pytest
+after_success:
+    - codecov
